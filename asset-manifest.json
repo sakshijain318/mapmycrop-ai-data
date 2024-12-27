@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%7Bmapmycrop-ai-data%7D/static/css/main.49faa5e3.css",
-    "main.js": "/%7Bmapmycrop-ai-data%7D/static/js/main.63170536.js",
-    "index.html": "/%7Bmapmycrop-ai-data%7D/index.html",
-    "main.49faa5e3.css.map": "/%7Bmapmycrop-ai-data%7D/static/css/main.49faa5e3.css.map",
-    "main.63170536.js.map": "/%7Bmapmycrop-ai-data%7D/static/js/main.63170536.js.map"
+    "main.css": "/mapmycrop-ai-data/static/css/main.49faa5e3.css",
+    "main.js": "/mapmycrop-ai-data/static/js/main.63170536.js",
+    "index.html": "/mapmycrop-ai-data/index.html",
+    "main.49faa5e3.css.map": "/mapmycrop-ai-data/static/css/main.49faa5e3.css.map",
+    "main.63170536.js.map": "/mapmycrop-ai-data/static/js/main.63170536.js.map"
   },
   "entrypoints": [
     "static/css/main.49faa5e3.css",
